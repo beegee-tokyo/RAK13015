@@ -1,0 +1,27 @@
+var class_r_a_k___a_d_c___s_g_m58031 =
+[
+    [ "RAK_ADC_SGM58031", "class_r_a_k___a_d_c___s_g_m58031.html#a49b7bf8ff653f4530e632c0d9ff622c5", null ],
+    [ "RAK_ADC_SGM58031", "class_r_a_k___a_d_c___s_g_m58031.html#aef41923272657dd4ff9041b55f03a9ae", null ],
+    [ "RAK_ADC_SGM58031", "class_r_a_k___a_d_c___s_g_m58031.html#a3e5e68aa035ed1896075baef720be8c4", null ],
+    [ "RAK_ADC_SGM58031", "class_r_a_k___a_d_c___s_g_m58031.html#a1ef36278fa07aaf3c297cada6307fb3c", null ],
+    [ "begin", "class_r_a_k___a_d_c___s_g_m58031.html#a8f485ac32ae033abf9e8a1ea0c4a4e35", null ],
+    [ "get_GN_Trim1", "class_r_a_k___a_d_c___s_g_m58031.html#afcc316406f82fc6f7b3c46fa1d81ef26", null ],
+    [ "getAdcValue", "class_r_a_k___a_d_c___s_g_m58031.html#a2ee4780653c9f5c90032660a65893a78", null ],
+    [ "getChipID", "class_r_a_k___a_d_c___s_g_m58031.html#a340d6650503e02227f03455d67d06da3", null ],
+    [ "getConfig", "class_r_a_k___a_d_c___s_g_m58031.html#a23c62a988b56abdf10b6d51eea38d3a4", null ],
+    [ "getConfig1", "class_r_a_k___a_d_c___s_g_m58031.html#a0475ba48af5a0638dcfc30829e909abf", null ],
+    [ "getVoltage", "class_r_a_k___a_d_c___s_g_m58031.html#a75c7a32bd94d691fa7d2f8535e76ebf5", null ],
+    [ "getVoltageResolution", "class_r_a_k___a_d_c___s_g_m58031.html#a60d2144af621614473c176caa7473b1c", null ],
+    [ "readAlertHighThreshold", "class_r_a_k___a_d_c___s_g_m58031.html#a10216542a61084daba71bb8b5ae1f160", null ],
+    [ "readAlertLowThreshold", "class_r_a_k___a_d_c___s_g_m58031.html#ad955273fd08afdd48c604524cc20e1c2", null ],
+    [ "readByteRegister", "class_r_a_k___a_d_c___s_g_m58031.html#a48f197fdf9f267245d092a8c25c9e370", null ],
+    [ "readWordRegister", "class_r_a_k___a_d_c___s_g_m58031.html#ab94b2dc4461f663bc7e854f9de12e142", null ],
+    [ "set_GN_Trim1", "class_r_a_k___a_d_c___s_g_m58031.html#a0a1133de11d42bac4318df2f687cedb4", null ],
+    [ "setAlertHighThreshold", "class_r_a_k___a_d_c___s_g_m58031.html#aee8e39e193bce85e6b02402cc1cc1c37", null ],
+    [ "setAlertLowThreshold", "class_r_a_k___a_d_c___s_g_m58031.html#ad711e5739c7d6f7ded8b6ab85acb0ece", null ],
+    [ "setConfig", "class_r_a_k___a_d_c___s_g_m58031.html#a688efe3eed0d60e9e2c7f73e57130b61", null ],
+    [ "setConfig1", "class_r_a_k___a_d_c___s_g_m58031.html#a55af008b1218acd46b7f109adb1e55bb", null ],
+    [ "setVoltageResolution", "class_r_a_k___a_d_c___s_g_m58031.html#a79751f565ba33853c867565e06f38cba", null ],
+    [ "writeByteRegister", "class_r_a_k___a_d_c___s_g_m58031.html#a4dfd7171623bad27e731443c9fceea1c", null ],
+    [ "writeWordRegister", "class_r_a_k___a_d_c___s_g_m58031.html#ac6e5291cc4acbb2297c8c9aa86a2589b", null ]
+];

@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map For rak13015
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RAK13015	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+initRAK13015	KEYWORD2
+initAnalog_4_20	KEYWORD2
+readAnalog	KEYWORD2
+read4_20ma	KEYWORD2
+initModbus	KEYWORD2
+requestModBus	KEYWORD2
+writeModBus	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+I_4_20_CH_0	LITERAL1
+I_4_20_CH_1	LITERAL1
+I_4_20_CH_2	LITERAL1
+ANA_CH_0	LITERAL1
+ANA_CH_1	LITERAL1
+SLOT_A	LITERAL1
+SLOT_B	LITERAL1
+SLOT_C	LITERAL1
+SLOT_D	LITERAL1
+SLOT_E	LITERAL1
+SLOT_F	LITERAL1
+RAK19007	LITERAL1
+RAK19003	LITERAL1
+RAK19001	LITERAL1
+
+SGM58031_FS_6_144	LITERAL1	
+SGM58031_FS_4_096	LITERAL1	
+SGM58031_FS_2_048	LITERAL1		
+SGM58031_FS_1_024	LITERAL1	
+SGM58031_FS_0_512	LITERAL1	
+SGM58031_FS_0_256	LITERAL1	

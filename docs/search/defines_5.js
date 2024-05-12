@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['sgm58031_5fchip_5fid_5fregister_0',['SGM58031_CHIP_ID_REGISTER',['../_a_d_c___s_g_m58031_8h.html#a5ae2339d34e5d5511f405629d1592551',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5fconfig1_5fregister_1',['SGM58031_CONFIG1_REGISTER',['../_a_d_c___s_g_m58031_8h.html#ab323b58dbf3cf1c24724b111ded7c52a',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5fconfig_5fregister_2',['SGM58031_CONFIG_REGISTER',['../_a_d_c___s_g_m58031_8h.html#ac823c560ba2a8c5461b0728661e4f9fb',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5fconversion_5fregister_3',['SGM58031_CONVERSION_REGISTER',['../_a_d_c___s_g_m58031_8h.html#a1c1d0a2901b81b31881844a3791cb12f',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5fdefault_5faddress_4',['SGM58031_DEFAULT_ADDRESS',['../_a_d_c___s_g_m58031_8h.html#a027d0479d2ea04154f36b5cd5a94726c',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5ffs_5f0_5f256_5',['SGM58031_FS_0_256',['../_a_d_c___s_g_m58031_8h.html#a3b97c5c834151b22305531198285234c',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5ffs_5f0_5f512_6',['SGM58031_FS_0_512',['../_a_d_c___s_g_m58031_8h.html#a9734ebb885e119a642a6d7c427e0437b',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5ffs_5f1_5f024_7',['SGM58031_FS_1_024',['../_a_d_c___s_g_m58031_8h.html#a17161938c3a662e035a867160861c94e',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5ffs_5f2_5f048_8',['SGM58031_FS_2_048',['../_a_d_c___s_g_m58031_8h.html#a9bb631fff4b3f353e85355e403e59784',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5ffs_5f4_5f096_9',['SGM58031_FS_4_096',['../_a_d_c___s_g_m58031_8h.html#a4edd60ad98df158cfce93518eb1140c1',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5ffs_5f6_5f144_10',['SGM58031_FS_6_144',['../_a_d_c___s_g_m58031_8h.html#adf9c8a5a18b2d753011f95f1c2ba057b',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5fgn_5ftrim1_5fregister_11',['SGM58031_GN_TRIM1_REGISTER',['../_a_d_c___s_g_m58031_8h.html#a31eeedadcf9f319f98f7700237f41725',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5fhigh_5fthresh_5fregister_12',['SGM58031_HIGH_THRESH_REGISTER',['../_a_d_c___s_g_m58031_8h.html#afccd72857b902d284eca99588a72ed6b',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5flow_5fthresh_5fregister_13',['SGM58031_LOW_THRESH_REGISTER',['../_a_d_c___s_g_m58031_8h.html#a211480c2c44de2d551eab128e6e69ffb',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5fscl_5faddress_14',['SGM58031_SCL_ADDRESS',['../_a_d_c___s_g_m58031_8h.html#a432dbb91bc94637d7da8434525acfd4f',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5fsda_5faddress_15',['SGM58031_SDA_ADDRESS',['../_a_d_c___s_g_m58031_8h.html#a885f531986af9a0713d385fa4530e611',1,'ADC_SGM58031.h']]],
+  ['sgm58031_5fvdd_5faddress_16',['SGM58031_VDD_ADDRESS',['../_a_d_c___s_g_m58031_8h.html#a50a5246ba70e1c3f0e104dd91286a01d',1,'ADC_SGM58031.h']]],
+  ['slot_5fa_17',['SLOT_A',['../_r_a_k13015_8h.html#a829cf124b498b50e0b8bd5a29bf6c6bc',1,'RAK13015.h']]],
+  ['slot_5fb_18',['SLOT_B',['../_r_a_k13015_8h.html#a0274f68e3b0d4dead38d4305098a29c0',1,'RAK13015.h']]],
+  ['slot_5fc_19',['SLOT_C',['../_r_a_k13015_8h.html#a6e8b0d3bdeb0f5f0a73a242fb334dd91',1,'RAK13015.h']]],
+  ['slot_5fd_20',['SLOT_D',['../_r_a_k13015_8h.html#a741680478ad86248847f484918900cb2',1,'RAK13015.h']]],
+  ['slot_5fe_21',['SLOT_E',['../_r_a_k13015_8h.html#a812fb38920c005c7ed8e2485cca21f39',1,'RAK13015.h']]],
+  ['slot_5ff_22',['SLOT_F',['../_r_a_k13015_8h.html#a550da9081d02e29d89ec9a7c89f61263',1,'RAK13015.h']]]
+];

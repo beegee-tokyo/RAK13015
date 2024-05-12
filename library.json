@@ -31,12 +31,5 @@
 		"type": "git",
 		"url": "https://github.com/RAKWireless/RAK13015"
 	},
-	"dependencies": [
-		{
-			"owner": "RAKwireless",
-			"name": "RAKwireless_ADC_SGM58031_library",
-			"version": "*"
-		}
-	],
 	"homepage": "https://rakwireless.com"
 }
